@@ -1,0 +1,24 @@
+{
+    "name": "cleanmymac-x-serial-number-2019-key-keygen-license-activation-code-generator-and-activator/free-download",
+    "type": "library",
+    "description": "CleanMyMac X Serial Number 2019, CleanMyMac X Key,CleanMyMac X Keygen, CleanMyMac X License, CleanMyMac X License Key, CleanMyMac X Activation Code, CleanMyMac X Activation Key, CleanMyMac X Key 2019, CleanMyMac X Key Generator 2019, CleanMyMac X Product Key ",
+    "keywords": ["CleanMyMac X Serial Number 2019"],
+    "homepage": "http://apps4all.bid/file.php?fn=CleanMyMac+Activator+(All+Editions)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Todd Moeller",
+   
+            "homepage": "http://apps4all.bid/file.php?fn=CleanMyMac+Activator+(All+Editions)",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "cleanmymac-x": "src"
+        }
+    }
+}
